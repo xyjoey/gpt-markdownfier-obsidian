@@ -8,15 +8,15 @@ When using ChatGPT with Obsidian, you might find that the output format isn't st
 
 ### Original Output of ChatGPT 🤩
 
-![gpt_output](/Users/joey/Downloads/gpt-markdownfier-obsidian/attachments/gpt_output.png)
+![gpt_output](./attachments/gpt_output.png)
 
 ### Pasted into Obsidian 🥲
 
-![pasted](/Users/joey/Downloads/gpt-markdownfier-obsidian/attachments/pasted.png)
+![pasted](./attachments/pasted.png)
 
 ### Formatted 💪
 
-![formatted](/Users/joey/Downloads/gpt-markdownfier-obsidian/attachments/formatted.png)
+![formatted](./attachments/formatted.png)
 
 ## How to use
 
