@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "A plugin that formats ChatGPT output into markdown.",
 	"author": "Joey",
-	"authorUrl": "https://github.com/xyjoey/gpt-markdownfier-obsidian",
-	"fundingUrl": "https://github.com/xyjoey/gpt-markdownfier-obsidian",
+	"authorUrl": "https://github.com/xyjoey",
+	"fundingUrl": "https://github.com/xyjoey",
 	"isDesktopOnly": false
 }
