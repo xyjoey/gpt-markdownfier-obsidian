@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "gpt-markdownfier-obsidian",
+	"name": "Markdownfier for ChatGPT",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "An Obsidian plugin that formats ChatGPT output into markdown.",
+	"author": "Joey",
+	"authorUrl": "https://github.com/xyjoey/gpt-markdownfier-obsidian",
+	"fundingUrl": "https://github.com/xyjoey/gpt-markdownfier-obsidian",
 	"isDesktopOnly": false
 }
