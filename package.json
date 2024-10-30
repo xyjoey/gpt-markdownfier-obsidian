@@ -1,7 +1,7 @@
 {
-	"name": "gpt-markdownfier-obsidian",
+	"name": "gpt-markdownfier",
 	"version": "1.0.0",
-	"description": "An Obsidian plugin that formats ChatGPT output into markdown.",
+	"description": "A plugin that formats ChatGPT output into markdown.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
